@@ -1,0 +1,26 @@
+<annotation>
+	<folder>卡车</folder>
+	<filename>卡车_155.jpg</filename>
+	<path>C:\Users\ligua\Desktop\data\data\images\卡车\卡车_155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>658</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>卡车</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>24</ymin>
+			<xmax>623</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>单车</folder>
+	<filename>单车_28.jpg</filename>
+	<path>F:\study\深度学习\基于深度学习的车辆类型识别\data\images\单车\单车_28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>单车</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>51</ymin>
+			<xmax>500</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

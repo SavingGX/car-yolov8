@@ -1,0 +1,26 @@
+<annotation>
+	<folder>摩托车</folder>
+	<filename>摩托车_6.jpg</filename>
+	<path>F:\study\深度学习\基于深度学习的车辆类型识别\data\images\摩托车\摩托车_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>摩托车</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>415</ymin>
+			<xmax>768</xmax>
+			<ymax>1057</ymax>
+		</bndbox>
+	</object>
+</annotation>

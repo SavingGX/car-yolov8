@@ -1,0 +1,26 @@
+<annotation>
+	<folder>汽车</folder>
+	<filename>汽车_38.jpg</filename>
+	<path>C:\Users\ligua\Desktop\data\data\images\汽车\汽车_38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>972</width>
+		<height>611</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>汽车</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>141</ymin>
+			<xmax>808</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

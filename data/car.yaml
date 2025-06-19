@@ -1,0 +1,9 @@
+train: F:\study\深度学习\car\data\train.txt
+val: F:\study\深度学习\car\data\val.txt
+test: F:\study\深度学习\car\data\test.txt
+
+# number of classes
+nc: 4
+
+# class names
+names: ['单车', '卡车', '摩托车', '汽车']
